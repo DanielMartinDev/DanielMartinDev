@@ -21,11 +21,11 @@
 </div>
 
 ### 👨‍💻 About Me:
-I am a Front-End Developer  from Scotland.
+I am a Full-Stack Developer from Scotland.
 
-- 🔭 Currently studying to become a Front-End Web Developer online using CodeCademy.
+- 🔭 Currently studying to become a Full-Stack Web Developer online using CodeCademy.
 
-- ⚡ In my spare time I enjoy learning more about Web Development and building my own personal projects.
+- ⚡ In my spare time I enjoy gaming, learning more about Web Development and building my own personal projects.
 
 - 📬 Contact me: [![Linkedin Badge](https://img.shields.io/badge/-DanielMartinGit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-martin-b1a413111/)
 
