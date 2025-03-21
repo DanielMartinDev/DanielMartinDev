@@ -21,9 +21,9 @@
 </div>
 
 ### 👨‍💻 About Me:
-I am a Full-Stack Developer from Scotland.
+I am a Front-End Developer from Scotland.
 
-- 🔭 Currently studying to become a Full-Stack Web Developer online using CodeCademy.
+- 🔭 Currently studying to become a Front-End Web Developer online using CodeCademy.
 
 - ⚡ In my spare time I enjoy gaming, learning more about Web Development and building my own personal projects.
 
@@ -39,7 +39,7 @@ I am a Full-Stack Developer from Scotland.
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
 ---
