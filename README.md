@@ -21,26 +21,11 @@
 </div>
 
 ### 👨‍💻 About Me:
-I am a Front-End Developer from Scotland.
+I am a Indie Game Developer from Scotland.
 
-- 🔭 Currently studying to become a Front-End Web Developer online using CodeCademy.
-
-- ⚡ In my spare time I enjoy gaming, learning more about Web Development and building my own personal projects.
+- ⚡ In my spare time I enjoy gaming, learning more about Game Development and building my own personal projects.
 
 - 📬 Contact me: [![Linkedin Badge](https://img.shields.io/badge/-DanielMartinGit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-martin-b1a413111/)
-
---- 
-
- ### 🛠️ Languages and Tools
- <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-</div>
 
 ---
 
