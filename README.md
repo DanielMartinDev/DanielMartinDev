@@ -1,90 +1,83 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+# Hi, I'm Daniel Martin 👋
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/daniel-martin-b1a413111/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/DanielMartinGit">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
+## Software Developer | C# & .NET
 
-  <img src="https://komarev.com/ghpvc/?username=DanielMartinDev&style=flat-square&color=blue" alt=""/>
+I'm a UK-based software developer with a background in C# development and Unity, currently focused on building modern applications with .NET and ASP.NET Core.
 
-  <h1>
-    Hi there, I'm Daniel Martin!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+I enjoy solving problems, designing clean software, and building practical applications that provide real-world value. My current focus is backend development, APIs, databases, and creating projects that strengthen both my technical skills and understanding of software architecture.
 
-  <h3>C# Developer | Unity Background | Transitioning into .NET Backend Development</h3>
-</div>
+### Current Focus
+
+* Building REST APIs with ASP.NET Core
+* Working with Entity Framework Core and SQL databases
+* Improving software architecture and design skills
+* Developing portfolio projects that solve real-world problems
+* Expanding knowledge of cloud technologies and modern development practices
 
 ---
 
-### 👨‍💻 About Me
+## Tech Stack
 
-I'm a developer from the UK with a background in **game development using Unity and C#**, currently expanding into **.NET backend development** and building practical software projects.
+### Languages & Frameworks
 
-I enjoy solving problems, building systems, and creating projects that combine clean code with real-world use cases.
+* C#
+* ASP.NET Core
+* Entity Framework Core
+* SQL / SQLite
+* Unity
+* JavaScript
 
-- 🎮 Background in **Unity / C# game development**
-- 💻 Currently focused on **C#, ASP.NET Core Web API, Entity Framework Core, and SQL**
-- 🚀 Building projects as I transition into **junior software development**
-- 📚 Always learning and improving through hands-on development
-- 🎯 Open to **Junior C# / .NET / Software Developer opportunities in the UK**
+### Tools & Technologies
 
----
-
-### 🛠️ Current Tech Stack
-
-#### Languages & Frameworks
-- **C#**
-- **ASP.NET Core**
-- **Entity Framework Core**
-- **SQL / SQLite**
-- **Unity**
-- **JavaScript** (basic)
-
-#### Tools
-- **Visual Studio**
-- **Rider**
-- **Git & GitHub**
-- **Swagger / Postman**
+* Visual Studio
+* JetBrains Rider
+* Git & GitHub
+* Swagger / OpenAPI
+* Postman
+* Docker (Learning)
 
 ---
 
-### 📌 Current Focus
+## Featured Projects
 
-Right now I'm focused on building:
-- **Backend APIs with ASP.NET Core**
-- **Business-focused CRUD applications**
-- **Portfolio projects that showcase practical C#/.NET development**
-- **Tools and systems inspired by real workflows and game development problem-solving**
+### RetailStockTracker API
 
----
+A RESTful ASP.NET Core Web API for managing:
 
-### 🚧 Featured Projects
+* Products
+* Suppliers
+* Categories
+* Inventory and stock levels
 
-Here are some of the projects I'm currently working on / improving:
+Built using ASP.NET Core, Entity Framework Core, and SQL.
 
-- **RetailStockTracker.Api** – ASP.NET Core Web API for managing products, suppliers, categories, and stock levels
-- **ShiftPlanner** – A simple scheduling / task management app built to strengthen full-stack .NET skills
-- **Unity Projects** – Gameplay systems, tools, and personal game development experiments
+### ShiftPlanner
 
-> More projects and updates coming soon as I continue growing my portfolio.
+A scheduling and task management application focused on workforce planning, organisation, and productivity.
 
----
+### Unity Development Projects
 
-### 📫 Contact Me
-
-- 💼 **LinkedIn:** [Daniel Martin](https://www.linkedin.com/in/daniel-martin-b1a413111/)
-- 🐦 **Twitter / X:** [@DanielMartinGit](https://twitter.com/DanielMartinGit)
+A collection of gameplay systems, tools, and game development experiments built with Unity and C#.
 
 ---
 
-### 🔥 My GitHub Stats
+## What I'm Working Towards
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielMartinDev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+I'm currently building projects and expanding my professional portfolio while pursuing opportunities in:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMartinDev&show_icons=true&theme=dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+* Junior Software Engineering
+* Junior .NET Development
+* Backend Development
+* Full-Stack Development
+
+My goal is to continue growing as a software engineer by building practical software, contributing to meaningful projects, and delivering solutions that create value for users.
+
+---
+
+## Connect With Me
+
+* LinkedIn: Daniel Martin
+* GitHub: DanielMartin
+* Email: [Your Email]
+
+Thanks for stopping by and checking out my work.
