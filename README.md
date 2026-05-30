@@ -78,6 +78,6 @@ My goal is to continue growing as a software engineer by building practical soft
 
 * LinkedIn: Daniel Martin
 * GitHub: DanielMartin
-* Email: danieldevelops@gmail.com
+* Email: danielmartindevelops@gmail.com
 
 Thanks for stopping by and checking out my work.
