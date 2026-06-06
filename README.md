@@ -2,7 +2,7 @@
 
 ## Software Developer | C# & .NET
 
-I'm a UK-based software developer with a background in C# development and Unity, currently focused on building modern applications with .NET and ASP.NET Core.
+I'm a UK-based software developer with a background in C# development and Godot, currently focused on building modern applications with .NET and ASP.NET Core.
 
 I enjoy solving problems, designing clean software, and building practical applications that provide real-world value. My current focus is backend development, APIs, databases, and creating projects that strengthen both my technical skills and understanding of software architecture.
 
@@ -24,7 +24,7 @@ I enjoy solving problems, designing clean software, and building practical appli
 * ASP.NET Core
 * Entity Framework Core
 * SQL / SQLite
-* Unity
+* Godot
 * JavaScript
 
 ### Tools & Technologies
@@ -55,9 +55,9 @@ Built using ASP.NET Core, Entity Framework Core, and SQL.
 
 A scheduling and task management application focused on workforce planning, organisation, and productivity.
 
-### Unity Development Projects
+### Godot Development Projects
 
-A collection of gameplay systems, tools, and game development experiments built with Unity and C#.
+A collection of gameplay systems, tools, and game development experiments built with Godot and C#.
 
 ---
 
