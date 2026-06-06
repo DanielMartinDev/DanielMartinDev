@@ -77,7 +77,7 @@ My goal is to continue growing as a software engineer by building practical soft
 ## Connect With Me
 
 * LinkedIn: Daniel Martin
-* GitHub: DanielMartin
+* GitHub: DanielMartinDev
 * Email: danielmartindevelops@gmail.com
 
 Thanks for stopping by and checking out my work.
